@@ -1,0 +1,454 @@
+body {
+    background-color: rgb(199, 145, 126);
+  }
+
+  h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 45px;
+    }
+
+    h4{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: rgb(255, 216, 203);  
+    }
+
+    li{
+        color: white;
+    }
+
+    a{
+      color: rgb(0, 0, 0);
+    }
+
+    a{
+      background-color:rgb(230, 201, 191);
+    }
+
+    a:hover{
+        color: blue;
+    }
+
+    .div1{ 
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(116, 70, 55);
+        padding: 3px 5px;
+        border: 4px solid rgb(145, 88, 70);
+        margin: 6px;
+        float: left;
+        position: absolute;
+        left: 413px;
+        top: 795px;
+    }
+
+    .div2{ 
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(116, 70, 55);
+        padding: 3px 5px;
+        border: 4px solid rgb(145, 88, 70);
+        margin: 6px;
+        float: right;
+        position: absolute;
+        left: 413px;
+        top: 2145px;
+    }
+
+    .txt1{
+        width: 20%;
+        position: absolute;
+        left: 685px;
+        top: 120px;
+        font-size: 18px;
+        background-color:rgb(116, 70, 55);
+        padding: 3px 5px;
+        border: 4px solid rgb(145, 88, 70);
+        margin: 6px;
+        float: left;
+        padding: 5px 10px;
+    }
+
+    .txt2{
+        width: 20%;
+        position: absolute;
+        left: 695px;
+        top: 1495px;
+        font-size: 18px;
+        background-color:rgb(116, 70, 55);
+        padding: 3px 5px;
+        border: 4px solid rgb(145, 88, 70);
+        margin: 6px;
+        float: right;
+    }
+
+    .txt3{
+        width: 20%;
+        position: absolute;
+        left: 695px;
+        top: 2850px;
+        font-size: 18px;
+        background-color:rgb(116, 70, 55);
+        padding: 3px 5px;
+        border: 4px solid rgb(145, 88, 70);
+        margin: 6px;
+        float: right;
+    }
+
+    #purple1, #purple2, #purple3, #owl, #owl1{
+        width: 400px;
+        border: 7px ridge burlywood;
+        position: absolute;
+    }
+
+    #purple1{
+        left: 1010px;
+        top: 125px
+    }
+
+    #purple2{
+        left: 1010px;
+        top: 1500px;
+    }
+
+    #purple3{
+        left: 1010px;
+        top: 2855px;
+    }
+
+    #owl{
+        top: 800px;
+    }
+
+    #owl1{
+        top: 2150px
+    }
+    .wrap{
+     position: relative;
+    }
+
+    .header{
+       background-color: rgb(145, 88, 70);
+       color: white;
+       padding: 3px 8px;
+    } 
+
+    .ref{
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(230, 201, 191);
+        padding: 3px;
+        border: 4px solid rgb(180, 130, 115);
+        margin: 6px;
+        float: left;
+        position: absolute;
+        left: 690px;
+        top: 309px;
+        padding: 5px 8px;
+    }
+
+    .ref1{
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(230, 201, 191);
+        padding: 3px;
+        border: 4px solid rgb(180, 130, 115);
+        margin: 6px;
+        padding: 5px 8px;
+        position: absolute;
+        left: 413px;
+        top: 1000px;
+    }
+
+    .ref2{
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(230, 201, 191);
+        padding: 3px;
+        border: 4px solid rgb(180, 130, 115);
+        margin: 6px;
+        padding: 5px 8px;
+        position: absolute;
+        left: 690px;
+        top: 1680px;
+    }
+
+    .ref3{
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(230, 201, 191);
+        padding: 3px;
+        border: 4px solid rgb(180, 130, 115);
+        margin: 6px;
+        padding: 5px 8px;
+        position: absolute;
+        left: 413px;
+        top: 2330px;
+    }
+
+    .ref4{
+        width: 20%;
+        font-size: 18px;
+        background-color:rgb(230, 201, 191);
+        padding: 3px;
+        border: 4px solid rgb(180, 130, 115);
+        margin: 6px;
+        padding: 5px 8px;
+        position: absolute;
+        left: 690px;
+        top: 3055px;
+    }
+
+    #square{
+        position: absolute;
+        top: 450px;
+    }
+
+    #squiggle{
+        position: absolute;
+        left: 230px;
+        top: 350px;
+    }
+
+    #shock{
+        position: absolute;
+        top: 320px;
+    }
+
+    #note{
+        position: absolute;
+        left: 370px;
+    }
+
+    #scribble{
+        position: absolute;
+        left: 320px;
+        top: 170px;
+    }
+
+    #mark{
+        position: absolute;
+        left: 530px;
+        top: 300px;
+    }
+
+    #m{
+        position: absolute;
+        left: 800px;
+        top: 750px;
+    }
+
+    #k{
+        position: absolute;
+        left: 1050px;
+        top: 740px;
+    }
+
+    #saw{
+        position: absolute;
+        left: 590px;
+        top: 1060px;
+    }
+
+    #wave{
+        position: absolute;
+        left: 1040px;
+        top: 1350px;
+    }
+
+    #flower{
+        position: absolute;
+        left: 1100px;
+        top: 1000px; 
+    }
+
+    #spark{
+        position: absolute;
+        left: 930px;
+        top: 1070px; 
+    }
+
+    #grass{
+        position: absolute;
+        left: 720px;
+        top: 1400px;
+    }
+
+    #stalk{
+        position: absolute;
+        left: 800px;
+        top: 1150px;
+    }
+
+    #star{
+        position: absolute;
+        left: 800px;
+        top: 870px; 
+    }
+
+    #tags{
+        position: absolute;
+        top: 200px;
+    }
+
+    #sharp{
+        position: absolute;
+        left: 850px;
+        top: 900px; 
+    }
+
+    #barn{
+        position: absolute;
+        top: 1600px;
+    }
+
+    #feathers{
+        position: absolute;
+        left: 400px;
+        top: 1850px; 
+    }
+
+    #bud{
+        position: absolute;
+        top: 1100px;
+        left: 0px;
+    }
+
+    #bg{
+        position: absolute;
+        top: 1600px;
+    }
+
+    #shrub{
+        position: absolute;
+        top: 1300px;
+        left: 90px;
+    }
+
+    #bars{
+        position: absolute;
+        top: 1450px;
+        left:200px;
+    }
+
+    #frame{
+        position: absolute;
+        top: 1100px;
+    }
+
+    #strips{
+        position: absolute;
+        left: 400px;
+        top: 1450px;
+    }
+
+    #ghost{
+        position: absolute;
+        left: 1200px;
+        top: 2600px;
+    }
+
+    #teraghost{
+        position: absolute;
+        left: 1000px;
+        top: 2400px;
+    }
+
+    #terastal{
+        position: absolute;
+        left: 1105px;
+        top: 1850px;
+    }
+
+    #pink{
+        position: absolute;
+        left: 850px;
+        top: 2350px;
+    }
+
+    #kita{
+        position: absolute;
+        left: 800px;
+        top: 2500px;
+    }
+
+    #shards{
+        position: absolute;
+        left: 800px;
+        top: 2450px;
+    }
+
+    #rect{
+        position: absolute;
+        left: 750px;
+        top: 2700px;
+    }
+
+    #leauge{
+        position: absolute;
+        left: 1000px;
+        top: 2100px;
+    }
+
+    #clutter{
+        position: absolute;
+        left: 960px;
+        top: 1850px;
+    }
+
+    #spike{
+        position: absolute;
+        left: 700px;
+        top: 2100px; 
+    }
+
+    #swirls{
+        position: absolute;
+        left: 700px;
+        top: 2200px; 
+    }
+
+    #board{
+        position: absolute;
+        top: 3150px;
+    }
+
+    #dripink{
+        position: absolute;
+        top: 3150px;
+    }
+
+    #bigman{
+        position: absolute;
+        left: 300px;
+        top: 3380px; 
+    }
+
+    #frye{
+        position: absolute;
+        left: 415px;
+        top: 3380px;   
+    }
+
+    #shiver{
+        position: absolute;
+        left: 530px;
+        top: 3385px; 
+    }
+
+    #tyto{
+        position: absolute;
+        top: 2700px;   
+    }
+
+    #patches{
+        position: absolute;
+        left: 300px;
+        top: 2800px;   
+    }
+
+    #hexa{
+        position: absolute;
+        left: 200px;
+        top: 3000px;  
+    }
